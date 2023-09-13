@@ -1,0 +1,5 @@
+1.Wgranie pliku "umqttsimple" do ESP32.
+2.Uzupełnienie w pliku "ESP" informacji o sieci Wi-fi oraz adresu ip raspberry pi 
+3.Uzupełnienie w pliku "GUI" adresu ip brokera.
+4.Uruchomienie pliku "ESP" na esp32.
+5.Uruchomienie pliku "GUI" na raspberry pi.

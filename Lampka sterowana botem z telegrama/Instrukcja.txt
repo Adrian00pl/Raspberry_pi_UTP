@@ -1,0 +1,3 @@
+1.Uzupełnienie w pliku "boot" informacji o sieci Wi-fi oraz tokenu bota z telegrama. 
+2.Wgranie pliku "boot" do esp32.
+3.Restart esp32.
